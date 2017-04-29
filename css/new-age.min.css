@@ -79,7 +79,7 @@ p {
     font-family: 'MyFont';
     font-size: 50px;
     margin-top: 20px;
-    color: black;
+    color: #B92F55;
 }
 .navbar-right{
   margin-top: 12px;
@@ -92,7 +92,7 @@ p {
 }
 
 .navbar-default .navbar-header .navbar-brand:focus, .navbar-default .navbar-header .navbar-brand:hover {
-    color: #B92F55;
+    color: black;
 }
 
 .navbar-default .navbar-header .navbar-toggle {
@@ -144,10 +144,10 @@ p {
         border-color: rgba(34, 34, 34, .1)
     }
     .navbar-default.affix .navbar-header .navbar-brand {
-        color: #222
+        color: #B92F55
     }
     .navbar-default.affix .navbar-header .navbar-brand:focus, .navbar-default.affix .navbar-header .navbar-brand:hover {
-        color: #B92F55
+        color: black
     }
     .navbar-default.affix .nav>li>a, .navbar-default.affix .nav>li>a:focus {
         color: #222
