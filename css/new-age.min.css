@@ -50,8 +50,17 @@ a:focus, a:hover {
 }
 
 button{
-  background-color: #7D4295;
-  border-style: none;
+  margin-top: 20px;
+  -webkit-transition: all .35s;
+-moz-transition: all .35s;
+transition: all .35s;
+color: #7D4295;
+background-color: transparent;
+}
+
+button:hover{
+  background-color:#7D4295;
+  color:white;
 }
 
 hr {
