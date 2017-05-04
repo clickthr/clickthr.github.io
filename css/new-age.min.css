@@ -49,6 +49,11 @@ a:focus, a:hover {
     color: #7D4295;
 }
 
+button{
+  background-color: #7D4295;
+  border-style: none;
+}
+
 hr {
     max-width: 100px;
     margin: 25px auto 0;
